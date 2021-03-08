@@ -1,0 +1,1 @@
+removed default parameters for crc32_fast, crc32_bitwise, etc. to build project normally.
